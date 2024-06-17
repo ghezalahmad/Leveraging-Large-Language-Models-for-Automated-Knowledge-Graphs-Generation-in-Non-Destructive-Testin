@@ -1,0 +1,19 @@
+Deterioration Mechanism: Physical Deterioration
+Material: Wood
+NDT Tools: Calorimetry, DVS, DSC, LFNMR, microspectroscopy
+
+Deterioration Mechanism: Chemical Deterioration
+Material: Wood
+NDT Tools: FT-IR Spectroscopy, XRD, ICP Analysis
+
+Deterioration Mechanism: Biological Deterioration (Fungal Decay)
+Material: Wood
+NDT Tools: Isothermal Microcalorimetry, DNA-based Methods (T-RFLP, qRT-PCR), Advanced Biochemical Analyses
+
+Deterioration Mechanism: Biological Deterioration (Insect Damage)
+Material: Wood
+NDT Tools: Visual Inspection, Mass Variation, Mechanical Testing (Janka Hardness Test, Compression Test)
+
+Deterioration Mechanism: Biological Deterioration (Bacterial Decay)
+Material: Wood
+NDT Tools: DNA Metabarcoding, Optical Microscopy, X-ray Photoelectron Spectroscopy (XPS)

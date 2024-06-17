@@ -1,0 +1,11 @@
+Deterioration Mechanism: Physical Deterioration
+Material: Bricks
+NDT Tools: SEM, HR micro-CT, Acoustic Emission (AE), Orthophoto imaging, DIC
+
+Deterioration Mechanism: Chemical Deterioration
+Material: Bricks
+NDT Tools: Schmidt hammer, Schmidt Impact Hammer, Microscopy, pH and silicon measurements, GPR, SEM, EDS, DTA, Ultrasonic wave velocities, Dynamic Young's Modulus, Electrical Resistivity, Salt crystallization test, UPV, RH
+
+Deterioration Mechanism: Biological Deterioration
+Material: Bricks
+NDT Tools: Image processing, Imaging-based methods, Spectroscopy-based methods, Remote sensing, Schmidt hammer, Vibration-impulse excitation technique, Build-Mat Bio-test (BMB test), Macro- and micro-NDT

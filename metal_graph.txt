@@ -1,0 +1,11 @@
+Deterioration Mechanism: Chemical Deterioration
+Material: Steel/Metal
+NDT Tools: Pulsed Eddy Current (PEC), Ultrasonic Thickness Measurement, IRT, Active Microwave Thermography, GPR, Microwave NDT and Thermography, Optical Techniques
+
+Deterioration Mechanism: Electrochemical Deterioration
+Material: Steel/Metal
+NDT Tools: Electrochemical Impedance Spectroscopy (EIS), TGA, Potentiostat, Multiphase Field Model, DTA, Thermo-gravimetric methods, X-ray analysis, SEM, EDAX
+
+Deterioration Mechanism: Mechanical Deterioration
+Material: Steel/Metal
+NDT Tools: Standard tensile steel specimens, SEM, TEM, Advanced characterization techniques, Thermal Desorption Spectroscopy (TDS), Mechanical testing

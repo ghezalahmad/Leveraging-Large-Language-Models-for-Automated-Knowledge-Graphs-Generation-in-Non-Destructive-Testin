@@ -1,0 +1,5 @@
+
+NDT Tool: SEM
+Related Deterioration Mechanisms: Leaching (Concrete), Ammonium Nitrate Attack (Concrete), Chemical Deterioration (Bricks), Electrochemical Deterioration (Steel/Metal)
+...
+(other provided NDT tools and related deterioration mechanisms)
