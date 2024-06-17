@@ -21,7 +21,7 @@ This project extracts information about Non-Destructive Testing (NDT) methods an
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ndt-knowledge-graph.git
+git clone https://github.com/ghezalahmad/ndt-knowledge-graph.git
 cd ndt-knowledge-graph
 ```
 
@@ -107,6 +107,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact [your email].
+For any questions or suggestions, please open an issue or contact ghezalahmad.zia@outlook.com.
 ```
 
