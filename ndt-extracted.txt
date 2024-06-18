@@ -1,5 +1,497 @@
+NDT Tool: Visual Testing (VT)
+Related Deterioration Mechanisms: Surface Cracks, Corrosion, Bulges/Deformations (All Materials)
 
-NDT Tool: SEM
-Related Deterioration Mechanisms: Leaching (Concrete), Ammonium Nitrate Attack (Concrete), Chemical Deterioration (Bricks), Electrochemical Deterioration (Steel/Metal)
-...
-(other provided NDT tools and related deterioration mechanisms)
+NDT Tool: Ultrasonic Testing (UT)
+Related Deterioration Mechanisms: Internal Cracks, Flaws, Structural Integrity (All Materials)
+
+NDT Tool: Rebound Hammer
+Related Deterioration Mechanisms: Surface Hardness, Structural Integrity (Concrete), Ammonium Nitrate Attack (Concrete)
+
+NDT Tool: Impact-Echo (IE)
+Related Deterioration Mechanisms: Voids, Delaminations, Cracks (Concrete)
+
+NDT Tool: Ground Penetrating Radar (GPR)
+Related Deterioration Mechanisms: Subsurface Defects, Moisture Content, Rebar Location, Corrosion (Concrete), Chemical Deterioration (Bricks), Electrochemical Deterioration (Steel/Metal)
+
+NDT Tool: Magnetic Particle Testing (MT)
+Related Deterioration Mechanisms: Surface and Near-Surface Cracks, Surface Cracks (Ferromagnetic Materials)
+
+NDT Tool: Eddy Current Testing (ET)
+Related Deterioration Mechanisms: Surface and Subsurface Defects, Conductivity Changes (Conductive Materials)
+
+NDT Tool: Penetrant Testing (PT)
+Related Deterioration Mechanisms: Surface Breaking Flaws, Surface Defects (Non-Magnetic Materials)
+
+NDT Tool: Microseismic Testing
+Related Deterioration Mechanisms: Structural Integrity, Cracks (Masonry)
+
+NDT Tool: Infrared Thermography (IRT)
+Related Deterioration Mechanisms: Moisture Content, Thermal Defects, Delamination, Thermal Anomalies (All Materials), Chemical Deterioration (Steel/Metal)
+
+NDT Tool: Electrical Resistivity Testing (ERT)
+Related Deterioration Mechanisms: Moisture Content, Decay, Corrosion Rate (Concrete)
+
+NDT Tool: Endoscopy (Fiberscopes and Videoscopes)
+Related Deterioration Mechanisms: Internal inspection for cracks, Corrosion (Concrete, Steel)
+
+NDT Tool: Radiographic Testing (RT)
+Related Deterioration Mechanisms: Internal Voids, Inclusions, Cracks, Corrosion (All Materials)
+
+NDT Tool: Half-Cell Potential Testing (HCP)
+Related Deterioration Mechanisms: Corrosion Potential (Concrete)
+
+NDT Tool: Scanning Electron Microscopy (SEM)
+Related Deterioration Mechanisms: Microstructural Analysis, Corrosion Products (Concrete, Steel), Leaching (Concrete), Ammonium Nitrate Attack (Concrete), Chemical Deterioration (Bricks), Electrochemical Deterioration (Steel/Metal)
+
+NDT Tool: X-Ray Diffraction (XRD)
+Related Deterioration Mechanisms: Mineralogical Composition, Corrosion Products (Concrete, Steel), Leaching (Concrete), Chemical Deterioration (Wood, Bricks)
+
+NDT Tool: Thermogravimetric Analysis (TGA)
+Related Deterioration Mechanisms: Leaching, Thermal Stability and Composition (Concrete, All Materials), Electrochemical Deterioration (Steel/Metal)
+
+NDT Tool: Differential Thermal Analysis (DTA)
+Related Deterioration Mechanisms: Chemical Deterioration (Steel/Metal, Bricks)
+
+NDT Tool: Acoustic Emission (AE)
+Related Deterioration Mechanisms: Crack Initiation and Propagation, Leak Detection (Concrete, Pipelines), Physical Deterioration (Bricks)
+
+NDT Tool: Dye Penetrant Inspection (DPI)
+Related Deterioration Mechanisms: Surface Cracks, Porosity (Steel)
+
+NDT Tool: Leak Testing (LT)
+Related Deterioration Mechanisms: Detection of Leaks in Pipelines, Storage Tanks (Steel)
+
+NDT Tool: X-ray Photoelectron Spectroscopy (XPS)
+Related Deterioration Mechanisms: Surface Chemistry (All Materials), Biological Deterioration (Bacterial Decay) (Wood)
+
+NDT Tool: Auger Electron Spectroscopy (AES)
+Related Deterioration Mechanisms: Surface Chemistry (All Materials)
+
+NDT Tool: Fourier Transform Infrared Spectroscopy (FTIR)
+Related Deterioration Mechanisms: Chemical Bonds and Composition (All Materials), Chemical Deterioration (Wood)
+
+NDT Tool: Raman Spectroscopy
+Related Deterioration Mechanisms: Molecular Composition and Crystallinity (All Materials)
+
+NDT Tool: Nuclear Magnetic Resonance (NMR)
+Related Deterioration Mechanisms: Molecular Structure and Dynamics (All Materials)
+
+NDT Tool: Energy Dispersive X-ray Spectroscopy (EDS)
+Related Deterioration Mechanisms: Elemental Composition (All Materials), Ammonium Nitrate Attack (Concrete)
+
+NDT Tool: Wavelength Dispersive X-ray Spectroscopy (WDS)
+Related Deterioration Mechanisms: Elemental Composition (All Materials)
+
+NDT Tool: Laser Induced Breakdown Spectroscopy (LIBS)
+Related Deterioration Mechanisms: Elemental Composition (All Materials)
+
+NDT Tool: Glow Discharge Optical Emission Spectroscopy (GD-OES)
+Related Deterioration Mechanisms: Elemental Composition and Depth Profiling (All Materials)
+
+NDT Tool: Secondary Ion Mass Spectrometry (SIMS)
+Related Deterioration Mechanisms: Surface Composition and Depth Profiling (All Materials)
+
+NDT Tool: Electron Backscatter Diffraction (EBSD)
+Related Deterioration Mechanisms: Crystallographic Orientation (All Materials)
+
+NDT Tool: Holographic Interferometry
+Related Deterioration Mechanisms: Surface and Subsurface Deformations (All Materials)
+
+NDT Tool: Shearography
+Related Deterioration Mechanisms: Surface and Subsurface Deformations (All Materials)
+
+NDT Tool: Digital Image Correlation (DIC)
+Related Deterioration Mechanisms: Strain and Deformation (All Materials), Physical Deterioration (Bricks)
+
+NDT Tool: Terrestrial Laser Scanning (TLS)
+Related Deterioration Mechanisms: Surface Topography and Geometry (All Materials)
+
+NDT Tool: Aerial Laser Scanning (ALS)
+Related Deterioration Mechanisms: Surface Topography and Geometry (All Materials)
+
+NDT Tool: Micro X-ray Computed Tomography (µCT)
+Related Deterioration Mechanisms: Internal Structures and Defects (All Materials)
+
+NDT Tool: Spektralanalyse (Spectral Analysis)
+Related Deterioration Mechanisms: Chemical Composition (All Materials)
+
+NDT Tool: Impuls-Thermographie (Impulse Thermography)
+Related Deterioration Mechanisms: Surface and Near-Surface Defects (All Materials)
+
+NDT Tool: Frequenzanalyse (Frequency Analysis)
+Related Deterioration Mechanisms: Vibrational Properties (All Materials)
+
+NDT Tool: Laser Ultraschall (Laser Ultrasonics)
+Related Deterioration Mechanisms: Internal Flaws (All Materials)
+
+NDT Tool: Digital Radiography (DR)
+Related Deterioration Mechanisms: Internal Defects (All Materials)
+
+NDT Tool: Optical Microscopy
+Related Deterioration Mechanisms: Surface Defects and Microstructure (All Materials), Biological Deterioration (Bacterial Decay) (Wood)
+
+NDT Tool: Electron Microscopy
+Related Deterioration Mechanisms: Microstructure (All Materials)
+
+NDT Tool: Atomic Force Microscopy (AFM)
+Related Deterioration Mechanisms: Surface Topography and Properties (All Materials)
+
+NDT Tool: Neutron Activation Analysis (NAA)
+Related Deterioration Mechanisms: Elemental Composition (All Materials)
+
+NDT Tool: X-ray Fluorescence (XRF)
+Related Deterioration Mechanisms: Chemical Composition (All Materials)
+
+NDT Tool: Mössbauer Spectroscopy
+Related Deterioration Mechanisms: Magnetic Properties and Phase Analysis (All Materials)
+
+NDT Tool: Rutherford Backscattering Spectrometry (RBS)
+Related Deterioration Mechanisms: Composition and Thickness (All Materials)
+
+NDT Tool: UV-Vis Spectroscopy
+Related Deterioration Mechanisms: Absorption and Transmission Properties (All Materials)
+
+NDT Tool: Mass Spectrometry (MS)
+Related Deterioration Mechanisms: Molecular Mass and Composition (All Materials)
+
+NDT Tool: Liquid Chromatography (LC)
+Related Deterioration Mechanisms: Chemical Separation and Analysis (All Materials)
+
+NDT Tool: Gas Chromatography (GC)
+Related Deterioration Mechanisms: Volatile Compounds Analysis (All Materials)
+
+NDT Tool: High-Performance Liquid Chromatography (HPLC)
+Related Deterioration Mechanisms: Chemical Composition and Purity (All Materials)
+
+NDT Tool: Capillary Electrophoresis (CE)
+Related Deterioration Mechanisms: Ion and Molecule Separation (All Materials)
+
+NDT Tool: Differential Scanning Calorimetry (DSC)
+Related Deterioration Mechanisms: Thermal Properties and Transitions (All Materials), Physical Deterioration (Wood)
+
+NDT Tool: Dynamic Mechanical Analysis (DMA)
+Related Deterioration Mechanisms: Mechanical Properties and Viscoelasticity (All Materials)
+
+NDT Tool: Dielectric Analysis (DEA)
+Related Deterioration Mechanisms: Electrical Properties (All Materials)
+
+NDT Tool: Atomic Absorption Spectroscopy (AAS)
+Related Deterioration Mechanisms: Elemental Analysis (All Materials)
+
+NDT Tool: Inductively Coupled Plasma Mass Spectrometry (ICP-MS)
+Related Deterioration Mechanisms: Trace Element Analysis (All Materials)
+
+NDT Tool: Inductively Coupled Plasma Optical Emission Spectroscopy (ICP-OES)
+Related Deterioration Mechanisms: Elemental Composition (All Materials)
+
+NDT Tool: X-ray Absorption Spectroscopy (XAS)
+Related Deterioration Mechanisms: Elemental Composition and Oxidation State (All Materials)
+
+NDT Tool: Total Reflection X-ray Fluorescence (TXRF)
+Related Deterioration Mechanisms: Trace Element Analysis (All Materials)
+
+NDT Tool: Laser Scanning Confocal Microscopy (LSCM)
+Related Deterioration Mechanisms: Surface Topography and Composition (All Materials)
+
+NDT Tool: Scanning Probe Microscopy (SPM)
+Related Deterioration Mechanisms: Surface Topography and Properties (All Materials)
+
+NDT Tool: White Light Interferometry (WLI)
+Related Deterioration Mechanisms: Surface Topography and Roughness (All Materials)
+
+NDT Tool: Interferometric Synthetic Aperture Microscopy (ISAM)
+Related Deterioration Mechanisms: Surface and Subsurface Imaging (All Materials)
+
+NDT Tool: Structured Light Scanning
+Related Deterioration Mechanisms: Surface Topography and Geometry (All Materials)
+
+NDT Tool: Fringe Projection
+Related Deterioration Mechanisms: Surface Topography and Geometry (All Materials)
+
+NDT Tool: Photogrammetry
+Related Deterioration Mechanisms: Surface Geometry and Deformation (All Materials)
+
+NDT Tool: Infrared Thermography (IR)
+Related Deterioration Mechanisms: Detection of moisture ingress (Concrete), Delamination (Concrete), Thermal anomalies (Steel)
+
+NDT Tool: Rebound Hammer
+Related Deterioration Mechanisms: Surface hardness (Concrete), Ammonium Nitrate Attack (Concrete)
+
+NDT Tool: Ultrasonic Pulse Velocity (UPV)
+Related Deterioration Mechanisms: Internal flaws and voids (Concrete), Evaluation of material homogeneity (Concrete), Crack depth measurement (Steel), Ammonium Nitrate Attack (Concrete), Chemical Deterioration (Bricks)
+
+NDT Tool: DNA-based Methods (T-RFLP, qRT-PCR)
+Related Deterioration Mechanisms: Biological Deterioration (Fungal Decay) (Wood)
+
+NDT Tool: Ergosterol or Chitin Assays
+Related Deterioration Mechanisms: Biological Deterioration (Fungal Decay) (Wood)
+
+NDT Tool: Visual Inspection
+Related Deterioration Mechanisms: Biological Deterioration (Insect Damage) (Wood)
+
+NDT Tool: Mass Variation
+Related Deterioration Mechanisms: Biological Deterioration (Insect Damage) (Wood)
+
+NDT Tool: Janka Hardness Test
+Related Deterioration Mechanisms: Biological Deterioration (Insect Damage) (Wood)
+
+NDT Tool: Compression Test
+Related Deterioration Mechanisms: Biological Deterioration (Insect Damage) (Wood)
+
+NDT Tool: DNA Metabarcoding
+Related Deterioration Mechanisms: Biological Deterioration (Bacterial Decay) (Wood)
+
+NDT Tool: Optical Microscopy
+Related Deterioration Mechanisms: Biological Deterioration (Bacterial Decay) (Wood)
+
+NDT Tool: HR micro-CT
+Related Deterioration Mechanisms: Physical Deterioration (Bricks)
+
+NDT Tool: Orthophoto imaging
+Related Deterioration Mechanisms: Physical Deterioration (Bricks)
+
+NDT Tool: Schmidt hammer
+Related Deterioration Mechanisms: Chemical Deterioration (Bricks), Biological Deterioration (Bricks)
+
+NDT Tool: Microscopy
+Related Deterioration Mechanisms: Chemical Deterioration (Bricks)
+
+NDT Tool: pH and silicon measurements
+Related Deterioration Mechanisms: Chemical Deterioration (Bricks)
+
+NDT Tool: Acid rain corrosion tests
+Related Deterioration Mechanisms: Chemical Deterioration (Bricks)
+
+NDT Tool: Salt crystallization test
+Related Deterioration Mechanisms: Chemical Deterioration (Bricks)
+
+NDT Tool: RH
+Related Deterioration Mechanisms: Chemical Deterioration (Bricks)
+
+NDT Tool: Ultrasonic wave velocities
+Related Deterioration Mechanisms: Chemical Deterioration (Bricks)
+
+NDT Tool: Dynamic Young's Modulus
+Related Deterioration Mechanisms: Chemical Deterioration (Bricks)
+
+NDT Tool: Electrical Resistivity
+Related Deterioration Mechanisms: Chemical Deterioration (Bricks)
+
+NDT Tool: Pulsed Eddy Current (PEC)
+Related Deterioration Mechanisms: Chemical Deterioration (Steel/Metal)
+
+NDT Tool: Ultrasonic Thickness Measurement
+Related Deterioration Mechanisms: Chemical Deterioration (Steel/Metal)
+
+NDT Tool: Active Microwave Thermography
+Related Deterioration Mechanisms: Chemical Deterioration (Steel/Metal)
+
+NDT Tool: Microwave NDT and Thermography
+Related Deterioration Mechanisms: Chemical Deterioration (Steel/Metal)
+
+NDT Tool: Optical Techniques
+Related Deterioration Mechanisms: Chemical Deterioration (Steel/Metal)
+
+NDT Tool: Electrochemical Impedance Spectroscopy (EIS)
+Related Deterioration Mechanisms: Electrochemical Deterioration (Steel/Metal)
+
+NDT Tool: Potentiostat
+Related Deterioration Mechanisms: Electrochemical Deterioration (Steel/Metal)
+
+NDT Tool: Multiphase Field Model
+Related Deterioration Mechanisms: Electrochemical Deterioration (Steel/Metal)
+
+NDT Tool: Standard tensile steel specimens
+Related Deterioration Mechanisms: Mechanical Deterioration (Steel/Metal)
+
+NDT Tool: TEM
+Related Deterioration Mechanisms: Mechanical Deterioration (Steel/Metal)
+
+NDT Tool: Failure analysis
+Related Deterioration Mechanisms: Mechanical Deterioration (Steel/Metal)
+
+NDT Tool: Mechanical testing
+Related Deterioration Mechanisms: Mechanical Deterioration (Steel/Metal)
+
+NDT Tool: Calorimetry
+Related Deterioration Mechanisms: Physical Deterioration (Wood)
+
+NDT Tool: DVS
+Related Deterioration Mechanisms: Physical Deterioration (Wood)
+
+NDT Tool: DSC
+Related Deterioration Mechanisms: Physical Deterioration (Wood)
+
+NDT Tool: LFNMR
+Related Deterioration Mechanisms: Physical Deterioration (Wood)
+
+NDT Tool: Microspectroscopy
+Related Deterioration Mechanisms: Physical Deterioration (Wood)
+
+NDT Tool: Isothermal Microcalorimetry
+Related Deterioration Mechanisms: Biological Deterioration (Fungal Decay) (Wood)
+
+NDT Tool: Schmidt Hammer
+Related Deterioration Mechanisms: Chemical Deterioration (Bricks), Biological Deterioration (Bricks)
+
+NDT Tool: Gitterschnittprüfung (Cross-cut Test)
+Related Deterioration Mechanisms: Adhesion Strength (Coatings on Steel)
+
+NDT Tool: Dornbiegeprüfung (Mandrel Bend Test)
+Related Deterioration Mechanisms: Sample Deformation (Coatings)
+
+NDT Tool: Dreipunktbiegeverfahren (Three-Point Bend Test)
+Related Deterioration Mechanisms: Sample Deformation (Coatings)
+
+NDT Tool: Kratzprüfung (Scratch Test)
+Related Deterioration Mechanisms: Scratch/Cut (Coatings)
+
+NDT Tool: Druckwasserstrahlprüfung (High-Pressure Water Jet Test)
+Related Deterioration Mechanisms: Sample Deformation (Coatings)
+
+NDT Tool: Querschliff/Querschnitt (Cross-Section)
+Related Deterioration Mechanisms: Sample Deformation (Coatings)
+
+NDT Tool: Keilschnitt (Wedge Test)
+Related Deterioration Mechanisms: Sample Deformation (Coatings)
+
+NDT Tool: Weißlicht-Interferometrie (White Light Interferometry)
+Related Deterioration Mechanisms: Surface Structure (Coatings)
+
+NDT Tool: Haftkraft (Adhesion Force)
+Related Deterioration Mechanisms: Adhesion Strength (Coatings)
+
+NDT Tool: Magnetfeldänderung (Hall-Sensor Principle)
+Related Deterioration Mechanisms: Magnetic Properties (Metals)
+
+NDT Tool: Magnetfeldänderung (Magnetic Inductive Method)
+Related Deterioration Mechanisms: Magnetic Properties (Metals)
+
+NDT Tool: Betarückstreuverfahren (Beta Backscatter Method)
+Related Deterioration Mechanisms: Density Differences (Coatings)
+
+NDT Tool: Wärmeausbreitung (Photothermal Method)
+Related Deterioration Mechanisms: Thermal Properties (Metals)
+
+NDT Tool: Ultraschallreflexion (Ultrasonic Reflection)
+Related Deterioration Mechanisms: Material Homogeneity (Concrete)
+
+NDT Tool: Terahertz-Messverfahren (Terahertz Measurement Method)
+Related Deterioration Mechanisms: Surface Defects (Metals)
+
+NDT Tool: Härteprüfung (Rebound Hardness Test - Leeb Method)
+Related Deterioration Mechanisms: Hardness Loss (Metals)
+
+NDT Tool: Ultraschallkontaktimpedanz (Ultrasonic Contact Impedance - UCI)
+Related Deterioration Mechanisms: Hardness Loss (Metals)
+
+NDT Tool: Schallemissionsprüfung (Acoustic Emission Testing - AE)
+Related Deterioration Mechanisms: Crack Formation (Metals)
+
+NDT Tool: Magnetische Streuflussprüfung (Magnetic Flux Leakage - MFL)
+Related Deterioration Mechanisms: Surface Defects (Metals)
+
+NDT Tool: Radiographie (Radiographic Testing - DR)
+Related Deterioration Mechanisms: Material Homogeneity (Concrete, Metals)
+
+NDT Tool: Impuls-Echo-Technik (Impulse Echo Technique)
+Related Deterioration Mechanisms: Material Homogeneity (Concrete)
+
+NDT Tool: Magnetinduktive Verfahren (Magnetic Inductive Method)
+Related Deterioration Mechanisms: Coating Thickness Measurement (Metals)
+
+NDT Tool: Phased Array Ultrasonic Testing (PAUT)
+Related Deterioration Mechanisms: Internal Flaws (All Materials)
+
+NDT Tool: Time-of-Flight Diffraction (TOFD)
+Related Deterioration Mechanisms: Internal Defects (All Materials)
+
+NDT Tool: Neutron Radiography
+Related Deterioration Mechanisms: Internal Defects (All Materials)
+
+NDT Tool: Computed Tomography (CT)
+Related Deterioration Mechanisms: Internal Defects (All Materials)
+
+NDT Tool: Speckle Interferometry
+Related Deterioration Mechanisms: Surface Deformations (All Materials)
+
+NDT Tool: Moiré Interferometry
+Related Deterioration Mechanisms: Strain and Deformation (All Materials)
+
+NDT Tool: Digital Image Correlation (DIC)
+Related Deterioration Mechanisms: Strain and Deformation (All Materials), Physical Deterioration (Bricks)
+
+NDT Tool: Laser Testing Methods (LTM)
+Related Deterioration Mechanisms: Surface and Subsurface Defects (All Materials)
+
+NDT Tool: Holographic Testing (HT)
+Related Deterioration Mechanisms: Surface and Subsurface Deformations (All Materials)
+
+NDT Tool: Shearographic Testing (ST)
+Related Deterioration Mechanisms: Surface and Subsurface Deformations (All Materials)
+
+NDT Tool: Structured Light Scanning
+Related Deterioration Mechanisms: Surface Topography and Geometry (All Materials)
+
+NDT Tool: Photogrammetry
+Related Deterioration Mechanisms: Surface Geometry and Deformation (All Materials)
+
+NDT Tool: Terrestrial Laser Scanning (TLS)
+Related Deterioration Mechanisms: Surface Topography and Geometry (All Materials)
+
+NDT Tool: Aerial Laser Scanning (ALS)
+Related Deterioration Mechanisms: Surface Topography and Geometry (All Materials)
+
+NDT Tool: Infrared Thermography (IRT)
+Related Deterioration Mechanisms: Thermal Anomalies and Defects (All Materials)
+
+NDT Tool: Micro X-ray Computed Tomography (µCT)
+Related Deterioration Mechanisms: Internal Structures and Defects (All Materials)
+
+NDT Tool: Eddy Current Testing (ECT)
+Related Deterioration Mechanisms: Surface and Subsurface Defects (Conductive Materials)
+
+NDT Tool: Magnetic Particle Testing (MT)
+Related Deterioration Mechanisms: Surface and Subsurface Defects (Ferromagnetic Materials)
+
+NDT Tool: Acoustic Emission Testing (AET)
+Related Deterioration Mechanisms: Crack Formation and Growth (All Materials)
+
+NDT Tool: Leak Testing (LT)
+Related Deterioration Mechanisms: Leaks and Pressure Loss (Pipelines and Containers)
+
+NDT Tool: Visual Testing (VT)
+Related Deterioration Mechanisms: Surface Defects and Anomalies (All Materials)
+
+NDT Tool: Radiographic Testing (RT)
+Related Deterioration Mechanisms: Internal Defects and Structures (All Materials)
+
+NDT Tool: Thermographic Testing (TT)
+Related Deterioration Mechanisms: Thermal Anomalies and Defects (All Materials)
+
+NDT Tool: Laser Testing Methods (LTM)
+Related Deterioration Mechanisms: Surface and Subsurface Defects (All Materials)
+
+NDT Tool: Holographic Testing (HT)
+Related Deterioration Mechanisms: Surface and Subsurface Deformations (All Materials)
+
+NDT Tool: Shearographic Testing (ST)
+Related Deterioration Mechanisms: Surface and Subsurface Deformations (All Materials)
+
+NDT Tool: Differential Scanning Calorimetry (DSC)
+Related Deterioration Mechanisms: Thermal Properties and Transitions (All Materials), Physical Deterioration (Wood)
+
+NDT Tool: Dynamic Mechanical Analysis (DMA)
+Related Deterioration Mechanisms: Mechanical Properties and Viscoelasticity (All Materials)
+
+NDT Tool: Dielectric Analysis (DEA)
+Related Deterioration Mechanisms: Electrical Properties (All Materials)
+
+NDT Tool: Atomic Absorption Spectroscopy (AAS)
+Related Deterioration Mechanisms: Elemental Analysis (All Materials)
+
+NDT Tool: Inductively Coupled Plasma Mass Spectrometry (ICP-MS)
+Related Deterioration Mechanisms: Trace Element Analysis (All Materials)
+
+NDT Tool: Inductively Coupled Plasma Optical Emission Spectroscopy (ICP-OES)
+Related Deterioration Mechanisms: Elemental Composition (All Materials)
