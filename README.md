@@ -22,7 +22,7 @@ This project extracts information about Non-Destructive Testing (NDT) methods an
 
 ```bash
 git clone https://github.com/ghezalahmad/LLM_NDT_Knowledge_Graph.git
-cd ndt-knowledge-graph
+cd LLM_NDT_Knowledge_Graph
 ```
 
 ### Step 2: Set up a virtual environment
