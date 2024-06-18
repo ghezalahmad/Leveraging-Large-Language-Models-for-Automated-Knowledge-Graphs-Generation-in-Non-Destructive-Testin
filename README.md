@@ -21,7 +21,7 @@ This project extracts information about Non-Destructive Testing (NDT) methods an
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/ghezalahmad/ndt-knowledge-graph.git
+git clone https://github.com/ghezalahmad/LLM_NDT_Knowledge_Graph.git
 cd ndt-knowledge-graph
 ```
 
