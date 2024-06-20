@@ -1,0 +1,86 @@
+﻿[
+  {
+    "n": {
+      "identity": 90,
+      "labels": [
+        "Material"
+      ],
+      "properties": {
+        "name": "All Materials"
+      },
+      "elementId": "4:26b2646c-ef8d-4a17-a3bd-126db83c0bcb:90"
+    }
+  },
+  {
+    "n": {
+      "identity": 121,
+      "labels": [
+        "Material"
+      ],
+      "properties": {
+        "name": "Concrete"
+      },
+      "elementId": "4:26b2646c-ef8d-4a17-a3bd-126db83c0bcb:121"
+    }
+  },
+  {
+    "n": {
+      "identity": 146,
+      "labels": [
+        "Material"
+      ],
+      "properties": {
+        "name": "Bricks"
+      },
+      "elementId": "4:26b2646c-ef8d-4a17-a3bd-126db83c0bcb:146"
+    }
+  },
+  {
+    "n": {
+      "identity": 149,
+      "labels": [
+        "Material"
+      ],
+      "properties": {
+        "name": "Wood"
+      },
+      "elementId": "4:26b2646c-ef8d-4a17-a3bd-126db83c0bcb:149"
+    }
+  },
+  {
+    "n": {
+      "identity": 163,
+      "labels": [
+        "Material"
+      ],
+      "properties": {
+        "name": "Steel/Metal"
+      },
+      "elementId": "4:26b2646c-ef8d-4a17-a3bd-126db83c0bcb:163"
+    }
+  },
+  {
+    "n": {
+      "identity": 169,
+      "labels": [
+        "Material"
+      ],
+      "properties": {
+        "name": "Non-Magnetic Materials"
+      },
+      "elementId": "4:26b2646c-ef8d-4a17-a3bd-126db83c0bcb:169"
+    }
+  },
+  {
+    "n": {
+      "identity": 171,
+      "labels": [
+        "Material"
+      ],
+      "properties": {
+        "name": "Masonry"
+      },
+      "elementId": "4:26b2646c-ef8d-4a17-a3bd-126db83c0bcb:171"
+    }
+  }
+]
