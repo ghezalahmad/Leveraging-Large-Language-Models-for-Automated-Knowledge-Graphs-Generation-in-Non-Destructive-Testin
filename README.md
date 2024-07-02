@@ -1,5 +1,5 @@
 
-# LLM NDT Knowledge Graph
+# Leveraging Large Language Models for Automated Knowledge Graphs Generation in Non-Destructive Testing
 
 This project extracts information about Non-Destructive Testing (NDT) methods and their related deterioration mechanisms for various materials from provided documents. The information is then structured and imported into a Neo4j knowledge graph for better visualization and analysis.
 
