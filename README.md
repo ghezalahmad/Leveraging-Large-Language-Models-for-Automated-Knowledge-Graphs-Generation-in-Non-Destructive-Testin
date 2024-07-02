@@ -10,6 +10,9 @@ This project extracts information about Non-Destructive Testing (NDT) methods an
 - Consolidates and finds relationships between NDT tools and materials.
 - Creates a knowledge graph in Neo4j to represent the extracted information.
 
+![Diagram](https://raw.githubusercontent.com/ghezalahmad/LLM_NDT_Knowledge_Graph/main/graph.svg)
+
+
 ## Requirements
 
 - Python 3.7 or higher
