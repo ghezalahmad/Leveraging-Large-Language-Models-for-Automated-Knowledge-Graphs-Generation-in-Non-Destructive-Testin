@@ -71,9 +71,13 @@ ndt-knowledge-graph/
 │   ├── Wood.rtf
 │   ├── Bricks.rtf
 │   ├── Metal.rtf
+├──Code
+├   ├── agent_bricks.py
+│   ├── agent_woods.py
+│   ├── agent_concrete.py
+│   ├── agent_steel.py
+│   ├── agent_kg.py
 ├── requirements.txt
-├── agent_bricks.py
-├── agent_kg.py
 └── README.md
 ```
 
