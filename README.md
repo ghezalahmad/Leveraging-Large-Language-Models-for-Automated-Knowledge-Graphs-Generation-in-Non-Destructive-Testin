@@ -50,7 +50,7 @@ Non-Destructive Testing (NDT) is a crucial field in materials science and engine
     pip install pipenv
     pipenv install
     pipenv shell
-
+    ```
     And then: 
     ```bash
     python -m venv venv
