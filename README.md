@@ -51,10 +51,10 @@ Non-Destructive Testing (NDT) is a crucial field in materials science and engine
     pipenv install
     pipenv shell
     
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\\Scripts\\activate`
-```
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\\Scripts\\activate`
+    ```
 
 ### Step 3: Install dependencies
 
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 
 2. **Run the Extraction Script**
     ```bash
-    python extract_data.py
+    python agent_bricks.py
     ```
 
 3. **Generate the Knowledge Graph**
