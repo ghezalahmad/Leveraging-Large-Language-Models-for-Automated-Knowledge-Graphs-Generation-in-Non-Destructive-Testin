@@ -6,7 +6,7 @@ This project extracts information about Non-Destructive Testing (NDT) methods an
 ## Features
 
 - Extracts NDT information from RTF documents.
-- Uses OpenAI GPT-3.5 to extract deterioration mechanisms and NDT tools.
+- Uses OpenAI GPT-4o to extract deterioration mechanisms and NDT tools.
 - Consolidates and finds relationships between NDT tools and materials.
 - Creates a knowledge graph in Neo4j to represent the extracted information.
 
@@ -69,8 +69,8 @@ ndt-knowledge-graph/
 │   ├── Bricks.rtf
 │   ├── Metal.rtf
 ├── requirements.txt
-├── main_file.py
-├── graph_neo4j.py
+├── agent_bricks.py
+├── agent_kg.py
 └── README.md
 ```
 
